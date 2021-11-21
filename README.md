@@ -1,4 +1,4 @@
-# Sentiment-Analysis-ML-Flask-App
+# Sentiment-Analysis-Web-App
 A machine learning end to end flask web app for sentiment analysis model created using Scikit-learn &amp; VADER Sentiment. <br />
 The project uses libraries like : <br />
 Flask <br />
